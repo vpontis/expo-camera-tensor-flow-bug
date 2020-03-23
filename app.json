@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template (TypeScript)",
+    "name": "Expo Tensor Flow - Example",
     "slug": "expo-tensor-flow",
     "privacy": "public",
     "sdkVersion": "36.0.0",
