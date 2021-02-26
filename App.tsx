@@ -166,13 +166,13 @@ const PoseCamera = () => {
             }}
           />
         ) : (
-          <Button
-            title={"Start Recording"}
-            onPress={() => {
-              startRecording();
-            }}
-          />
-        )}
+            <Button
+              title={"Start Recording"}
+              onPress={() => {
+                startRecording();
+              }}
+            />
+          )}
       </View>
     </View>
   );
